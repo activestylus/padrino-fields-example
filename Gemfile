@@ -9,7 +9,7 @@ gem 'rake'
 gem 'sinatra-flash', :require => 'sinatra/flash'
 
 # Component requirements
-gem 'haml'
+gem 'slim'
 gem 'dm-sqlite-adapter'
 gem 'dm-validations'
 gem 'dm-timestamps'
